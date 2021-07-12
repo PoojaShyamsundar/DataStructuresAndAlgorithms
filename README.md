@@ -1,7 +1,7 @@
 # DataStructuresAndAlgorithms
 The data structures and algorithms toolkit
 
-Data Structures:
+## Data Structures: 
 Linked Lists
 DLL
 Circular Linked List
@@ -23,6 +23,7 @@ BITs (Fenwick tree) 5
 Hash map/table
 Sparse table
 
+## Algorithms
 Kadane's  
 Rabin-Karp  
 KMP  
