@@ -40,4 +40,3 @@ Quick Sort
 Binary Search   
 Tarjan's  
 A*
- 
